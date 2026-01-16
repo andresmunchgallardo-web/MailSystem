@@ -1,4 +1,4 @@
-projectRoot.name = "MailSystem"
+rootProject.name = "MailSystem"
 
 include("client")
 include("server")
